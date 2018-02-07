@@ -6,6 +6,9 @@ Our goal for this assignment is to analyze the history of war and remixing it th
 ### Soldier's Uniforms
 - https://sketchfab.com/models/e5b1dd1601e84d0bac940664b47ec2b6
 
+Private George James Giles - Tunic and Webbing
+-https://sketchfab.com/models/1717a8ce161b41bdaaecac0d9d9f21d1
+
 
 ### Vehicles
 
