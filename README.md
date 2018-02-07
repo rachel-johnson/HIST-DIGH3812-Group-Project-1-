@@ -1,8 +1,7 @@
-## HIST3812 Group 1 Project
+## Museum of Digital Warfare 
 
 Our goal for this assignment is to analyze the history of war and remixing it through it's depiction and recreation of war. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
