@@ -10,9 +10,6 @@ Common Era Soldier Uniform
 The fictional character in the ‘Once Upon a War Time’ mobile app (WWI Australian Digger)
 - https://sketchfab.com/models/00c10289eed94eeeb79f7519e865e5ef
 
-Private George James Giles - Tunic and Webbing
-- https://sketchfab.com/models/1717a8ce161b41bdaaecac0d9d9f21d1
-
 
 ### Vehicles
 
