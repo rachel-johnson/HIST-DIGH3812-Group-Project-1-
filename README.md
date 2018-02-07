@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## HIST3812 Group 1 Project
 
-You can use the [editor on GitHub](https://github.com/Harsync/HIST-DIGH3812-Group-Project-1-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Our goal for this assignment is to analyze the history of war and remixing it through it's depiction and recreation of war. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
