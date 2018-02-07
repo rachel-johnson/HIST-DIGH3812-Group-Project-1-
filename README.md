@@ -15,3 +15,4 @@ The fictional character in the ‘Once Upon a War Time’ mobile app (WWI Austra
 
 
 ### Weapons and artefects
+- https://sketchfab.com/models/ee1e5f2875df40b6ad72317e6db6a836
